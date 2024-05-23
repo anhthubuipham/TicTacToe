@@ -7,5 +7,5 @@ public class Main {
         System.out.printf("Anh war hier. TEST TEST");
 
 
-        }
     }
+}
